@@ -38,7 +38,7 @@ We assessed the current features of the OCBC iBanking app and proposed ideas for
 ### Other Plans
 We've chosen to develop our app using ASP.NET due to our team's experience and comfort with this platform.
 
-## Personal Reflection
+### Personal Reflection
 In this initial meeting for our assignment, we are still uncertain about our project's direction. At this stage, we've outlined plans that seem feasible for us. However, we encountered challenges due to our lack of experience with the OCBC iBanking app, as most of our group members use DBS/POSB. We were reliant on one group member for app information. Future meetings should involve more research to ensure a clearer goal.
 ## **Week 2** (22/10/2023):
 After the Q&A session with the OCBC team, we have further narrow our plans:
