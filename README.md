@@ -40,3 +40,11 @@ We've chosen to develop our app using ASP.NET due to our team's experience and c
 
 ## Personal Reflection
 In this initial meeting for our assignment, we are still uncertain about our project's direction. At this stage, we've outlined plans that seem feasible for us. However, we encountered challenges due to our lack of experience with the OCBC iBanking app, as most of our group members use DBS/POSB. We were reliant on one group member for app information. Future meetings should involve more research to ensure a clearer goal.
+## **Week 2** (22/10/2023):
+After the Q&A session with the OCBC team, we have further narrow our plans:
+   - Larger icons and fonts with a screen magnification feature for visual impairments.
+   - A screen reader for users with visual impairments.
+   - Speech-to-text functionality for users with typing difficulties.
+   - Frequently Transferred Accounts feature for those with memory impairments.
+   - Schedule Transfer (Repeatable) to assist users with memory impairments.
+We are still in discussion on how to narrow down features specifically made for elderly
