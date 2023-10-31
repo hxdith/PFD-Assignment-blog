@@ -52,7 +52,7 @@ After the Q&A session with the OCBC team, we have further narrow our plans:
    - Speech-to-text functionality for users with typing difficulties.
    - Frequently Transferred Accounts feature for those with memory impairments.
    - Schedule Transfer (Repeatable) to assist users with memory impairments.
-During our meeting, we have created a trello board to update on the progress regarding the assignment (here)[https://trello.com/invite/b/qjncVdwm/ATTIb4b2e98ddef41dcc3e4dd925dd7166844ED5BD2D/pfd-type-α-project]
+During our meeting, we have created a trello board to update on the progress regarding the assignment [here](https://trello.com/invite/b/qjncVdwm/ATTIb4b2e98ddef41dcc3e4dd925dd7166844ED5BD2D/pfd-type-α-project)
 We are still in discussion on how to narrow down features specifically made for elderly
 
 ### Personal reflection
