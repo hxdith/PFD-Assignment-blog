@@ -60,3 +60,14 @@ We are still in discussion on how to narrow down features specifically made for 
 I  believe we've taken a step forward with our project. We have several ideas in mind, but during our recent meeting, the advice was to focus on tailoring features specifically for the elderly. The challenge lies in the fact that many of the concepts we've brainstormed are actually useful for a broader audience and not just the elderly. So, currently, we find ourselves in a bit of a quandary, trying to pinpoint that one unique and specific feature.
 
 Looking ahead, though, I'm quite optimistic about our progress. Our team has a vision for the website design, database, and code structure that we're building for the future. This gives us a strong foundation to work from, and it's an exciting prospect to see where these ideas will take us.
+
+## Week 3 (5/11/23)
+For our progress on assignment, we have made some progress. We have a successfully created a database, Models in the website as well as the homepage for the website.  
+
+These are the features we are planning to prioritise before hackathon:
+   - 2nd Person Guarantor.
+   - Speech-to-text and vice versa.
+
+
+### Personal Reflection:
+I feel this week's sprint was really rough as there was much to do and there is a lack of time. Hackathon is coming soon but there's a lack of time. I have lots of other assignments that I have yet to start.
