@@ -1,6 +1,6 @@
 # Hadith's PFD Assignment Blog
 
-## **Week 1** (22/10/2023):
+## **Week 1**:
 ### Goal: Enhancing OCBC App Accessibility for the Elderly
 In our first week of planning, we conducted research to identify common issues faced by the elderly when using applications. These issues include:
 - Memory impairments
@@ -40,7 +40,7 @@ We've chosen to develop our app using ASP.NET due to our team's experience and c
 
 ### Personal Reflection
 In this initial meeting for our assignment, we are still uncertain about our project's direction. At this stage, we've outlined plans that seem feasible for us. However, we encountered challenges due to our lack of experience with the OCBC iBanking app, as most of our group members use DBS/POSB. We were reliant on one group member for app information. Future meetings should involve more research to ensure a clearer goal.
-## **Week 2** (22/10/2023):
+## **Week 2**:
 ### Our current progress:
 To begin with, we have decided to name our project the "Type α Project." The Greek letter "α," which is equivalent to the letter "a" in the English alphabet, symbolizes "accessibility." Our slogan can be abbreviated as "TAP." The core concept is to enable the elderly to "TAP into the OCBC banking app" with a strong emphasis on accessibility. We opted for the Greek letter "alpha" because it represents the idea of being "first"; in a similar sense, we aim for our project's top priority to be the elderly.
 
@@ -52,7 +52,7 @@ After the Q&A session with the OCBC team, we have further narrow our plans:
    - Speech-to-text functionality for users with typing difficulties.
    - Frequently Transferred Accounts feature for those with memory impairments.
    - Schedule Transfer (Repeatable) to assist users with memory impairments.
-During our meeting, we have created a trello board to provide updates on the project [here](https://trello.com/invite/b/qjncVdwm/ATTIb4b2e98ddef41dcc3e4dd925dd7166844ED5BD2D/pfd-type-α-project)
+During our meeting, we have created a trello board to provide updates on the project ~~[here](https://trello.com/invite/b/qjncVdwm/ATTIb4b2e98ddef41dcc3e4dd925dd7166844ED5BD2D/pfd-type-α-project)~~ (link is broken)
 
 We are still in discussion on how to narrow down features specifically made for elderly
 
@@ -61,7 +61,7 @@ I  believe we've taken a step forward with our project. We have several ideas in
 
 Looking ahead, though, I'm quite optimistic about our progress. Our team has a vision for the website design, database, and code structure that we're building for the future. This gives us a strong foundation to work from, and it's an exciting prospect to see where these ideas will take us.
 
-## Week 3 (5/11/23)
+## Week 3:
 For our progress on assignment, we have made some progress. We have a successfully created a database, Models in the website as well as the homepage for the website.  
 
 These are the features we are planning to prioritise before hackathon:
@@ -71,3 +71,29 @@ These are the features we are planning to prioritise before hackathon:
 
 ### Personal Reflection:
 I feel this week's sprint was really rough as there was much to do and there is a lack of time. Hackathon is coming soon but there's a lack of time. I have lots of other assignments that I have yet to start.
+
+## Week 4:
+An update to the previous week, we have made a skeleton code that is able to fetch and post data on the SQL database. Apart from that, we have also created some HTML pages, and made basic functional webpages link through the use of ASP.net.
+
+Here are the pages we have created this week:
+   - Homepage
+   - Transfer page
+   - Member dashboard
+   - All the confirmation pages (e.g payment confirmation)
+
+As for the features, we are in the midst of implementing the 2nd Person Guarantor feature. We are still finding an appropriate emailing service that does not require payment.
+
+### Personal reflection
+We have made a decent progress and I feel happy that we have made through this week having some features done. Though, I have still my doubts about achieve our target of implementing the two afforementioned features in week 3. I have responsible for finding a working emailing service and none of them work seamlessly.
+
+ ## Week 5:
+ We have successfully created all the necessary webpages for the website and done implementing the 2nd Person Guarantor. We have also decided to push Speech-to-text feature for the final assignment as we are not able to implement it on time though we have the necessary code to get it work but just not the implementation. 
+
+Updated Features of the Website:
+   - Transfer page
+   - Sign up/login
+   - Changing of customer details
+   - 2nd Person Guarantor
+
+### Personal Reflection:
+Week 5 was one of the most hectic week yet. Juggling multiple assignments was really tough but I am glad we manage to complete the entire website! Unfortunately, we did not implement the text-to-speech due to time contraints. It is also unfortunate that we discovered, on the day of the hackathon, that we do not really need a functional website, as the judges were looking for a front-end design. Though we did not acheieve the requirements but getting to the first checkpoint taught me a lot about teamwork and time management
