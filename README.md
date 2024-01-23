@@ -97,3 +97,36 @@ Updated Features of the Website:
 
 ### Personal Reflection:
 Week 5 was one of the most hectic week yet. Juggling multiple assignments was really tough but I am glad we manage to complete the entire website! Unfortunately, we did not implement the text-to-speech due to time contraints. It is also unfortunate that we discovered, on the day of the hackathon, that we do not really need a functional website, as the judges were looking for a front-end design. Though we did not acheieve the requirements but getting to the first checkpoint taught me a lot about teamwork and time management
+
+
+ ## Week 12:
+We attained disappointing results during the hackathon, so this week we focus on planning to implement better features. 
+
+We have discussed with the product owner and come to an agreement on some new additional features part as part of increments and retaining some features:
+
+   - transaction limit,password recovery (implements guarantor)
+   - Text-to-speech (both ways)
+   - Search bar
+   - video tutorials
+   - feedback feature
+   - frequent recipient list
+   - colour-coded transactions
+   - improvements to UI/UX
+
+   ### Personal reflection
+Quite frankly, I was disappointed that we did not meet the       
+requirements. We initially thought the idea would work but it is a shame that it did not despite the amount of effort we have put in. However, it is something that should not set us back. We will continue pouring efforts into completing our work.
+
+## Week 13
+
+For this sprint,  I have partially implemented transaction limit and password recovery.
+
+Just a small description, transaction limit feature implements guarantor feature. whenever a certain transaction done by user is higher than the set limit, it will trigger the 2nd party guarantor. This will be helpful in preventing possible scams, and misinputs by illiterate audience.
+
+As for the password recovery feature, it implements a feature whenever a user forgets password, a guarantor can also help recovering the user's account.
+
+During the meeting we discussed how to also fully integrate the text-to-speech feature into the website.
+
+### Personal reflection
+I had trouble getting the features implemented due to the dependencies (database lacking variables etc) but I am currently in discussions with group members on how to fully implement the features I have coded. I am feeling a bit nervous as I am unsure if I could get all the features done before the deadline.
+
