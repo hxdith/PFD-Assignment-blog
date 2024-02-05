@@ -127,6 +127,20 @@ As for the password recovery feature, it implements a feature whenever a user fo
 
 During the meeting we discussed how to also fully integrate the text-to-speech feature into the website.
 
+## Week 14
+For this sprint, I have fully implemented transaction limit and password recovery after discovering the bug that was causing the error previous week
+
+I helped my other groupmates with their features as there were overlapping variables and various other errors that cause our code to not run
+
+### Personal reflection
+I am quite happy that i managed to get the features working as it was one of the hardest task i faced. I am proud that we manage to almost implement our features despite the assignments piling up.
+
+## Week 15
+All features are implemented and everything is completed. Only work remains are to find and fix bugs to make sure our program run just fine.
+
+### personal reflection
+I am proud of what my teammates have done. We manage to implement all our features despite the challenges (other modules' project, code issues etc) we faced while trying to get this assignment done. I personally was feeling drained throughout week 15 trying to get everything done on time
+
 ### Personal reflection
 I had trouble getting the features implemented due to the dependencies (database lacking variables etc) but I am currently in discussions with group members on how to fully implement the features I have coded. I am feeling a bit nervous as I am unsure if I could get all the features done before the deadline.
 
